@@ -1,0 +1,83 @@
+.navbar-brand {
+    color: orange;
+    font-size: 55px;
+}
+.navbar-brand span{
+    color: black;
+    font-size: 35px;
+}
+.nav-link 
+{
+    font-size: 20px;
+    justify-content: space-between;
+}
+  .list-group-item a{
+    text-decoration: none;
+    color: black;
+}
+.list-group-item a:hover{color: brown;font-weight: bold; font-size: 40px;}
+.container{
+    font-size: 44px;
+    margin-top: 300px;
+    margin-left: 200px;
+    
+    position: relative;
+}
+.container h1{
+    font-size: 60px;
+    color: white;
+}
+.container h2{
+    margin-left: 160px;
+}
+.container h1:hover{
+    color: brown;font-weight: bold;
+}
+.container button{
+    width: 250px;
+    height: 50px;
+}
+.btn btn-light
+{
+    margin-left: 100px;
+}
+ .btn btn-light:hover{
+    color: brown;
+}
+body{
+    padding: 50px;
+}
+.container2
+{
+    margin-left: 350px;
+}
+.container2 h1
+{
+    font-size: 80px;
+    margin-left: 200px;
+}
+.container2 span{
+    font-size: 50px;
+    margin-left:150px ;
+}
+.container1 img:hover{ width: 350px;}
+footer
+{
+   
+    width: 250px;
+    height: 300px;
+   background-color: azure;
+    text-decoration: none;
+    top: -30px;
+}
+a
+{
+    text-decoration: none;
+    color:black;
+    font-size: 20px;
+   
+}
+#sign
+{background-color: rgb(47, 97, 3);
+width:80px ;
+height: 40px;}
